@@ -13,7 +13,7 @@ When a user clicks a customer on the list it should display the customer details
 ![customer_list2.PNG](images/customer_list2.PNG)
 This form is used to collect the new customer information. If the prefered customer checkbox is checked, create a PreferredCustomer, otherwise create a Customer. This should be added to the list on the previous form.
 
-**Hint: Make sure all your classes are public**
+**Hint: Make sure all your classes are public** 
 
 ## Person Class
 Begin a new project named Customer Information, and design a class named Person with the following fields and properties:
